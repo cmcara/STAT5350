@@ -2,7 +2,7 @@
 
 Sergei Rachmaninoff’s Piano Concerto No. 2 in C minor, Op. 18 (1900–01) follows a broadly Classical three-movement concerto design, but with Romantic-era expansions, cyclic connections, and a very personal approach to sonata form. Here’s a clear breakdown of its formal structure, movement by movement.
 
-Overall Structure
+### Overall Structure
 
 - Three movements (fast–slow–fast)
 
@@ -10,7 +10,7 @@ Overall Structure
 
 - The piano is both virtuosic and symphonic, often integrated into the orchestral fabric rather than purely opposed to it
 
-I. Moderato (C minor)
+### I. Moderato (C minor)
 
 Form: Modified Sonata Form
 
@@ -18,27 +18,27 @@ This movement is unusual in how it begins and how the piano is treated structura
 
 Introduction
 
-Piano alone, tolling bell-like chords that gradually build in intensity
+- Piano alone, tolling bell-like chords that gradually build in intensity
 
-This serves as a slow introduction, but one that also establishes thematic and emotional material
+- This serves as a slow introduction, but one that also establishes thematic and emotional material
 
 Exposition
 
-First Theme (C minor)
+- First Theme (C minor)
 
-Presented by strings after the introduction
+- Presented by strings after the introduction
 
-Dark, driving, and rhythmically firm
+- Dark, driving, and rhythmically firm
 
-Transition
+- Transition
 
-Highly expressive, led by the piano
+- Highly expressive, led by the piano
 
-Second Theme (E♭ major)
+- Second Theme (E♭ major)
 
-Lyrical, expansive, and one of Rachmaninoff’s most famous melodies
+- Lyrical, expansive, and one of Rachmaninoff’s most famous melodies
 
-Presented by piano with orchestral support
+- Presented by piano with orchestral support
 
 No strict double exposition (unlike Classical concertos)
 

@@ -1,0 +1,44 @@
+{
+ "concepts": [
+  {
+   "text": "President of the United States",
+   "relevance": 0.988719,
+   "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+  },
+  {
+   "text": "United States",
+   "relevance": 0.986882,
+   "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+  },
+  {
+   "text": "Government",
+   "relevance": 0.986434,
+   "dbpedia_resource": "http://dbpedia.org/resource/Government"
+  },
+  {
+   "text": "Constitution",
+   "relevance": 0.98597,
+   "dbpedia_resource": "http://dbpedia.org/resource/Constitution"
+  },
+  {
+   "text": "Law",
+   "relevance": 0.977477,
+   "dbpedia_resource": "http://dbpedia.org/resource/Law"
+  },
+  {
+   "text": "Vice President of the United States",
+   "relevance": 0.972584,
+   "dbpedia_resource": "http://dbpedia.org/resource/Vice_President_of_the_United_States"
+  },
+  {
+   "text": "Habeas corpus",
+   "relevance": 0.955336,
+   "dbpedia_resource": "http://dbpedia.org/resource/Habeas_corpus"
+  },
+  {
+   "text": "Attainder",
+   "relevance": 0.941442,
+   "dbpedia_resource": "http://dbpedia.org/resource/Attainder"
+  }
+ ]
+}

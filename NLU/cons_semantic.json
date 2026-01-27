@@ -1,0 +1,788 @@
+{
+ "semantic_roles": [
+  {
+   "subject": {
+    "text": "a more perfect Union"
+   },
+   "sentence": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+   "action": {
+    "verb": {
+     "text": "form",
+     "tense": "infinitive"
+    },
+    "text": "form",
+    "normalized": "form"
+   }
+  },
+  {
+   "subject": {
+    "text": "We the People of the United States, in Order to form a more perfect Union"
+   },
+   "sentence": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+   "object": {
+    "text": "Justice"
+   },
+   "action": {
+    "verb": {
+     "text": "establish",
+     "tense": "present"
+    },
+    "text": "establish",
+    "normalized": "establish"
+   }
+  },
+  {
+   "subject": {
+    "text": "We the People of the United States, in Order to form a more perfect Union"
+   },
+   "sentence": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+   "object": {
+    "text": "domestic Tranquility"
+   },
+   "action": {
+    "verb": {
+     "text": "insure",
+     "tense": "infinitive"
+    },
+    "text": "insure",
+    "normalized": "insure"
+   }
+  },
+  {
+   "subject": {
+    "text": "We the People of the United States, in Order to form a more perfect Union"
+   },
+   "sentence": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+   "object": {
+    "text": ", establish Justice"
+   },
+   "action": {
+    "verb": {
+     "text": "provide",
+     "tense": "infinitive"
+    },
+    "text": "provide",
+    "normalized": "provide"
+   }
+  },
+  {
+   "subject": {
+    "text": "We the People of the United States, in Order to form a more perfect Union"
+   },
+   "sentence": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+   "object": {
+    "text": "the general Welfare"
+   },
+   "action": {
+    "verb": {
+     "text": "promote",
+     "tense": "infinitive"
+    },
+    "text": "promote",
+    "normalized": "promote"
+   }
+  },
+  {
+   "subject": {
+    "text": "We the People of the United States, in Order to form a more perfect Union"
+   },
+   "sentence": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+   "object": {
+    "text": "the Blessings of Liberty to ourselves and our Posterity"
+   },
+   "action": {
+    "verb": {
+     "text": "secure",
+     "tense": "infinitive"
+    },
+    "text": "secure",
+    "normalized": "secure"
+   }
+  },
+  {
+   "subject": {
+    "text": "ordain and establish this Constitution for the United States of America"
+   },
+   "sentence": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+   "action": {
+    "verb": {
+     "text": "do",
+     "tense": "present"
+    },
+    "text": "do",
+    "normalized": "do"
+   }
+  },
+  {
+   "subject": {
+    "text": "this Constitution"
+   },
+   "sentence": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+   "action": {
+    "verb": {
+     "text": "establish",
+     "tense": "infinitive"
+    },
+    "text": "establish",
+    "normalized": "establish"
+   }
+  },
+  {
+   "subject": {
+    "text": "All legislative Powers"
+   },
+   "sentence": "All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.",
+   "action": {
+    "verb": {
+     "text": "grant",
+     "tense": "past participle"
+    },
+    "text": "granted",
+    "normalized": "grant"
+   }
+  },
+  {
+   "subject": {
+    "text": "All legislative Powers herein granted"
+   },
+   "sentence": "All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.",
+   "action": {
+    "verb": {
+     "text": "vest",
+     "tense": "present"
+    },
+    "text": "be vested",
+    "normalized": "be vest"
+   }
+  },
+  {
+   "subject": {
+    "text": "a Congress of the United States,"
+   },
+   "sentence": "All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.",
+   "action": {
+    "verb": {
+     "text": "consist",
+     "tense": "present"
+    },
+    "text": "shall consist",
+    "normalized": "shall consist"
+   }
+  },
+  {
+   "subject": {
+    "text": "The House of Representatives"
+   },
+   "sentence": "The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",
+   "object": {
+    "text": "of Members chosen every second Year by the People of the several States, and the Electors in each State"
+   },
+   "action": {
+    "verb": {
+     "text": "compose",
+     "tense": "present"
+    },
+    "text": "be composed",
+    "normalized": "be compose"
+   }
+  },
+  {
+   "subject": {
+    "text": "by the People of the several States, and the Electors in each State"
+   },
+   "sentence": "The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",
+   "object": {
+    "text": "Members"
+   },
+   "action": {
+    "verb": {
+     "text": "choose",
+     "tense": "past participle"
+    },
+    "text": "chosen",
+    "normalized": "choose"
+   }
+  },
+  {
+   "subject": {
+    "text": "the Qualifications requisite for Electors of the most numerous Branch of the State Legislature"
+   },
+   "sentence": "The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",
+   "action": {
+    "verb": {
+     "text": "have",
+     "tense": "present"
+    },
+    "text": "shall have",
+    "normalized": "shall have"
+   }
+  },
+  {
+   "subject": {
+    "text": "No Person"
+   },
+   "sentence": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.",
+   "object": {
+    "text": "a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen"
+   },
+   "action": {
+    "verb": {
+     "text": "be",
+     "tense": "present"
+    },
+    "text": "be",
+    "normalized": "be"
+   }
+  },
+  {
+   "subject": {
+    "text": "who"
+   },
+   "sentence": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.",
+   "object": {
+    "text": "to the Age"
+   },
+   "action": {
+    "verb": {
+     "text": "attain",
+     "tense": "present"
+    },
+    "text": "have attained",
+    "normalized": "have attain"
+   }
+  },
+  {
+   "subject": {
+    "text": "he"
+   },
+   "sentence": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.",
+   "action": {
+    "verb": {
+     "text": "choose",
+     "tense": "present"
+    },
+    "text": "be chosen",
+    "normalized": "be choose"
+   }
+  },
+  {
+   "subject": {
+    "text": "Representatives and direct Taxes"
+   },
+   "sentence": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.",
+   "object": {
+    "text": "apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons."
+   },
+   "action": {
+    "verb": {
+     "text": "be",
+     "tense": "infinitive"
+    },
+    "text": "be",
+    "normalized": "be"
+   }
+  },
+  {
+   "subject": {
+    "text": "the several States"
+   },
+   "sentence": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.",
+   "object": {
+    "text": "within this Union"
+   },
+   "action": {
+    "verb": {
+     "text": "include",
+     "tense": "present"
+    },
+    "text": "be included",
+    "normalized": "be include"
+   }
+  },
+  {
+   "subject": {
+    "text": "by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed"
+   },
+   "sentence": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.",
+   "object": {
+    "text": "respective Numbers,"
+   },
+   "action": {
+    "verb": {
+     "text": "determine",
+     "tense": "present"
+    },
+    "text": "be determined",
+    "normalized": "be determine"
+   }
+  },
+  {
+   "subject": {
+    "text": "of free Persons,"
+   },
+   "sentence": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.",
+   "object": {
+    "text": "those bound to Service for a Term of Years, and excluding Indians not taxed"
+   },
+   "action": {
+    "verb": {
+     "text": "include",
+     "tense": "present participle"
+    },
+    "text": "including",
+    "normalized": "include"
+   }
+  },
+  {
+   "subject": {
+    "text": "those bound to Service for a Term of Years, and excluding Indians not taxed"
+   },
+   "sentence": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.",
+   "object": {
+    "text": "to Service"
+   },
+   "action": {
+    "verb": {
+     "text": "bind",
+     "tense": "past participle"
+    },
+    "text": "bound",
+    "normalized": "bind"
+   }
+  },
+  {
+   "subject": {
+    "text": "Indians not taxed"
+   },
+   "sentence": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.",
+   "action": {
+    "verb": {
+     "text": "exclude",
+     "tense": "present participle"
+    },
+    "text": "excluding",
+    "normalized": "exclude"
+   }
+  },
+  {
+   "subject": {
+    "text": "Indians"
+   },
+   "sentence": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.",
+   "action": {
+    "verb": {
+     "text": "tax",
+     "tense": "past participle"
+    },
+    "text": "taxed",
+    "normalized": "tax"
+   }
+  },
+  {
+   "subject": {
+    "text": "The Number of Representatives"
+   },
+   "sentence": "The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.",
+   "object": {
+    "text": "one"
+   },
+   "action": {
+    "verb": {
+     "text": "exceed",
+     "tense": "present"
+    },
+    "text": "exceed",
+    "normalized": "exceed"
+   }
+  },
+  {
+   "subject": {
+    "text": "each State"
+   },
+   "sentence": "The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.",
+   "object": {
+    "text": "at Least one Representative"
+   },
+   "action": {
+    "verb": {
+     "text": "have",
+     "tense": "present"
+    },
+    "text": "shall have",
+    "normalized": "shall have"
+   }
+  },
+  {
+   "subject": {
+    "text": "the State of New Hampshire"
+   },
+   "sentence": "The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.",
+   "action": {
+    "verb": {
+     "text": "entitle",
+     "tense": "present"
+    },
+    "text": "be entitled",
+    "normalized": "be entitle"
+   }
+  },
+  {
+   "subject": {
+    "text": "vacancies"
+   },
+   "sentence": "When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.",
+   "object": {
+    "text": "from any State"
+   },
+   "action": {
+    "verb": {
+     "text": "happen",
+     "tense": "present"
+    },
+    "text": "happen",
+    "normalized": "happen"
+   }
+  },
+  {
+   "subject": {
+    "text": "the Executive Authority"
+   },
+   "sentence": "When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.",
+   "object": {
+    "text": "Writs of Election"
+   },
+   "action": {
+    "verb": {
+     "text": "issue",
+     "tense": "present"
+    },
+    "text": "shall issue",
+    "normalized": "shall issue"
+   }
+  },
+  {
+   "subject": {
+    "text": "such Vacancies"
+   },
+   "sentence": "When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.",
+   "action": {
+    "verb": {
+     "text": "fill",
+     "tense": "infinitive"
+    },
+    "text": "fill",
+    "normalized": "fill"
+   }
+  },
+  {
+   "subject": {
+    "text": "the sole Power of Impeachment"
+   },
+   "sentence": "The House of Representatives shall chuse their Speaker and other Officers; and shall have the sole Power of Impeachment.",
+   "action": {
+    "verb": {
+     "text": "have",
+     "tense": "present"
+    },
+    "text": "shall have",
+    "normalized": "shall have"
+   }
+  },
+  {
+   "subject": {
+    "text": "The Senate of the United States"
+   },
+   "sentence": "The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.",
+   "object": {
+    "text": "of two Senators from each State, chosen by the Legislature thereof"
+   },
+   "action": {
+    "verb": {
+     "text": "compose",
+     "tense": "present"
+    },
+    "text": "be composed",
+    "normalized": "be compose"
+   }
+  },
+  {
+   "subject": {
+    "text": "by the Legislature"
+   },
+   "sentence": "The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.",
+   "action": {
+    "verb": {
+     "text": "choose",
+     "tense": "past participle"
+    },
+    "text": "chosen",
+    "normalized": "choose"
+   }
+  },
+  {
+   "subject": {
+    "text": "each Senator"
+   },
+   "sentence": "The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.",
+   "object": {
+    "text": "one Vote"
+   },
+   "action": {
+    "verb": {
+     "text": "have",
+     "tense": "present"
+    },
+    "text": "shall have",
+    "normalized": "shall have"
+   }
+  },
+  {
+   "subject": {
+    "text": "they"
+   },
+   "sentence": "Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes.",
+   "action": {
+    "verb": {
+     "text": "assemble",
+     "tense": "present"
+    },
+    "text": "be assembled",
+    "normalized": "be assemble"
+   }
+  },
+  {
+   "subject": {
+    "text": "they"
+   },
+   "sentence": "Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes.",
+   "action": {
+    "verb": {
+     "text": "divide",
+     "tense": "present"
+    },
+    "text": "be divided",
+    "normalized": "be divide"
+   }
+  },
+  {
+   "subject": {
+    "text": "of the second Class at the Expiration of the fourth Year"
+   },
+   "sentence": "The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.",
+   "object": {
+    "text": "The Seats of the Senators of the first Class"
+   },
+   "action": {
+    "verb": {
+     "text": "vacate",
+     "tense": "present"
+    },
+    "text": "be vacated",
+    "normalized": "be vacate"
+   }
+  },
+  {
+   "subject": {
+    "text": "one third"
+   },
+   "sentence": "The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.",
+   "action": {
+    "verb": {
+     "text": "choose",
+     "tense": "present"
+    },
+    "text": "be chosen",
+    "normalized": "be choose"
+   }
+  },
+  {
+   "subject": {
+    "text": "Vacancies"
+   },
+   "sentence": "The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.",
+   "action": {
+    "verb": {
+     "text": "happen",
+     "tense": "present"
+    },
+    "text": "happen",
+    "normalized": "happen"
+   }
+  },
+  {
+   "subject": {
+    "text": "which"
+   },
+   "sentence": "The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.",
+   "object": {
+    "text": "such Vacancies"
+   },
+   "action": {
+    "verb": {
+     "text": "fill",
+     "tense": "present"
+    },
+    "text": "fill",
+    "normalized": "fill"
+   }
+  },
+  {
+   "subject": {
+    "text": "No Person"
+   },
+   "sentence": "No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen.",
+   "object": {
+    "text": "a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen"
+   },
+   "action": {
+    "verb": {
+     "text": "be",
+     "tense": "present"
+    },
+    "text": "be",
+    "normalized": "be"
+   }
+  },
+  {
+   "subject": {
+    "text": "who"
+   },
+   "sentence": "No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen.",
+   "object": {
+    "text": "a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen"
+   },
+   "action": {
+    "verb": {
+     "text": "attain",
+     "tense": "present"
+    },
+    "text": "have attained",
+    "normalized": "have attain"
+   }
+  },
+  {
+   "subject": {
+    "text": "he"
+   },
+   "sentence": "No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen.",
+   "action": {
+    "verb": {
+     "text": "choose",
+     "tense": "present"
+    },
+    "text": "be chosen",
+    "normalized": "be choose"
+   }
+  },
+  {
+   "subject": {
+    "text": "The Vice President of the United States"
+   },
+   "sentence": "The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.",
+   "object": {
+    "text": "President of the Senate, but shall have no Vote, unless they be equally divided"
+   },
+   "action": {
+    "verb": {
+     "text": "be",
+     "tense": "present"
+    },
+    "text": "be",
+    "normalized": "be"
+   }
+  },
+  {
+   "subject": {
+    "text": "no Vote"
+   },
+   "sentence": "The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.",
+   "action": {
+    "verb": {
+     "text": "have",
+     "tense": "present"
+    },
+    "text": "shall have",
+    "normalized": "shall have"
+   }
+  },
+  {
+   "subject": {
+    "text": "they"
+   },
+   "sentence": "The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.",
+   "action": {
+    "verb": {
+     "text": "divide",
+     "tense": "infinitive"
+    },
+    "text": "divided",
+    "normalized": "divide"
+   }
+  },
+  {
+   "subject": {
+    "text": "he"
+   },
+   "sentence": "The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States.",
+   "object": {
+    "text": "the Office of President of the United States"
+   },
+   "action": {
+    "verb": {
+     "text": "exercise",
+     "tense": "present"
+    },
+    "text": "shall exercise",
+    "normalized": "shall exercise"
+   }
+  },
+  {
+   "subject": {
+    "text": "The Senate"
+   },
+   "sentence": "The Senate shall have the sole Power to try all Impeachments.",
+   "object": {
+    "text": "the sole Power to try all Impeachments"
+   },
+   "action": {
+    "verb": {
+     "text": "have",
+     "tense": "present"
+    },
+    "text": "shall have",
+    "normalized": "shall have"
+   }
+  },
+  {
+   "subject": {
+    "text": "all Impeachments"
+   },
+   "sentence": "The Senate shall have the sole Power to try all Impeachments.",
+   "action": {
+    "verb": {
+     "text": "try",
+     "tense": "infinitive"
+    },
+    "text": "try",
+    "normalized": "try"
+   }
+  },
+  {
+   "subject": {
+    "text": "they"
+   },
+   "sentence": "When sitting for that Purpose, they shall be on Oath or Affirmation.",
+   "object": {
+    "text": "Oath or Affirmation"
+   },
+   "action": {
+    "verb": {
+     "text": "be",
+     "tense": "present"
+    },
+    "text": "be",
+    "normalized": "be"
+   }
+  }
+ ]
+}

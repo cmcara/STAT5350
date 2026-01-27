@@ -1,0 +1,9 @@
+{
+ "sentiment": {
+  "document": {
+   "score": -0.299219,
+   "mixed": "1",
+   "label": "negative"
+  }
+ }
+}

@@ -1,0 +1,398 @@
+{
+ "entities": [
+  {
+   "type": "Location",
+   "text": "United States",
+   "relevance": 0.954582,
+   "disambiguation": {
+    "subtype": [
+     "Region",
+     "AdministrativeDivision",
+     "Country",
+     "GovernmentalJurisdiction",
+     "FilmEditor"
+    ],
+    "name": "United_States",
+    "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+   },
+   "count": 48,
+   "confidence": 1
+  },
+  {
+   "type": "Organization",
+   "text": "Senate",
+   "relevance": 0.411264,
+   "disambiguation": {
+    "subtype": [
+     "GovernmentalBody",
+     "Legislature"
+    ],
+    "name": "United_States_Senate",
+    "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+   },
+   "count": 10,
+   "confidence": 0.999933
+  },
+  {
+   "type": "JobTitle",
+   "text": "President",
+   "relevance": 0.407606,
+   "count": 19,
+   "confidence": 1
+  },
+  {
+   "type": "Organization",
+   "text": "Congress",
+   "relevance": 0.376969,
+   "disambiguation": {
+    "subtype": [
+     "Dedicator",
+     "GovernmentalBody",
+     "Legislature",
+     "NaturalOrCulturalPreservationAgency"
+    ],
+    "name": "United_States_Congress",
+    "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+   },
+   "count": 19,
+   "confidence": 1
+  },
+  {
+   "type": "Organization",
+   "text": "House of Representatives",
+   "relevance": 0.307602,
+   "disambiguation": {
+    "subtype": [
+     "GovernmentalBody",
+     "Legislature"
+    ],
+    "name": "United_States_House_of_Representatives",
+    "dbpedia_resource": "http://dbpedia.org/resource/United_States_House_of_Representatives"
+   },
+   "count": 5,
+   "confidence": 0.840469
+  },
+  {
+   "type": "Location",
+   "text": "States",
+   "relevance": 0.302671,
+   "disambiguation": {
+    "subtype": [
+     "Country"
+    ],
+    "name": "Papal_States",
+    "dbpedia_resource": "http://dbpedia.org/resource/Papal_States"
+   },
+   "count": 17,
+   "confidence": 0.999999
+  },
+  {
+   "type": "JobTitle",
+   "text": "Office of President",
+   "relevance": 0.298834,
+   "count": 3,
+   "confidence": 0.734002
+  },
+  {
+   "type": "Number",
+   "text": "two",
+   "relevance": 0.276322,
+   "count": 16,
+   "confidence": 1
+  },
+  {
+   "type": "JobTitle",
+   "text": "Vice President",
+   "relevance": 0.271699,
+   "count": 8,
+   "confidence": 1
+  },
+  {
+   "type": "Number",
+   "text": "one",
+   "relevance": 0.256822,
+   "count": 16,
+   "confidence": 1
+  },
+  {
+   "type": "Organization",
+   "text": "Legislature",
+   "relevance": 0.247597,
+   "count": 6,
+   "confidence": 0.999491
+  },
+  {
+   "type": "Organization",
+   "text": "Senate and House of Representatives",
+   "relevance": 0.218313,
+   "count": 2,
+   "confidence": 0.372765
+  },
+  {
+   "type": "Person",
+   "text": "Bill",
+   "relevance": 0.213621,
+   "count": 6,
+   "confidence": 0.999965
+  },
+  {
+   "type": "JobTitle",
+   "text": "President of the Senate",
+   "relevance": 0.206853,
+   "count": 3,
+   "confidence": 0.599715
+  },
+  {
+   "type": "JobTitle",
+   "text": "public Ministers",
+   "relevance": 0.201982,
+   "count": 4,
+   "confidence": 0.982057
+  },
+  {
+   "type": "Organization",
+   "text": "Consent of the Congress",
+   "relevance": 0.200894,
+   "count": 2,
+   "confidence": 0.369047
+  },
+  {
+   "type": "JobTitle",
+   "text": "establish Justice",
+   "relevance": 0.190684,
+   "count": 1,
+   "confidence": 0.165164
+  },
+  {
+   "type": "Organization",
+   "text": "common defence",
+   "relevance": 0.190261,
+   "count": 1,
+   "confidence": 0.301269
+  },
+  {
+   "type": "Organization",
+   "text": "general Welfare",
+   "relevance": 0.190067,
+   "count": 1,
+   "confidence": 0.489503
+  },
+  {
+   "type": "Date",
+   "text": "Age of twenty five Years",
+   "relevance": 0.185413,
+   "count": 1,
+   "confidence": 0.056891
+  },
+  {
+   "type": "Date",
+   "text": "Term of ten Years",
+   "relevance": 0.180852,
+   "count": 1,
+   "confidence": 0.078528
+  },
+  {
+   "type": "Organization",
+   "text": "State of New Hampshire",
+   "relevance": 0.179182,
+   "count": 1,
+   "confidence": 0.607663
+  },
+  {
+   "type": "Location",
+   "text": "Rhode-Island",
+   "relevance": 0.178684,
+   "count": 1,
+   "confidence": 0.470982
+  },
+  {
+   "type": "Organization",
+   "text": "Executive Authority",
+   "relevance": 0.176731,
+   "count": 1,
+   "confidence": 0.682269
+  },
+  {
+   "type": "Organization",
+   "text": "Seats of the Senators",
+   "relevance": 0.17305,
+   "count": 1,
+   "confidence": 0.273364
+  },
+  {
+   "type": "Ordinal",
+   "text": "second",
+   "relevance": 0.172954,
+   "count": 6,
+   "confidence": 1
+  },
+  {
+   "type": "Organization",
+   "text": "Legislature of any State",
+   "relevance": 0.170677,
+   "count": 1,
+   "confidence": 0.255413
+  },
+  {
+   "type": "Date",
+   "text": "Age of thirty Years",
+   "relevance": 0.16914,
+   "count": 1,
+   "confidence": 0.097674
+  },
+  {
+   "type": "Number",
+   "text": "three",
+   "relevance": 0.165278,
+   "count": 5,
+   "confidence": 0.99968
+  },
+  {
+   "type": "Number",
+   "text": "five",
+   "relevance": 0.164434,
+   "count": 4,
+   "confidence": 0.9984
+  },
+  {
+   "type": "JobTitle",
+   "text": "Senator",
+   "relevance": 0.163275,
+   "count": 3,
+   "confidence": 0.9864
+  },
+  {
+   "type": "Organization",
+   "text": "Office of honor, Trust",
+   "relevance": 0.16272,
+   "count": 1,
+   "confidence": 0.265668
+  },
+  {
+   "type": "Location",
+   "text": "Times, Places",
+   "relevance": 0.161333,
+   "count": 1,
+   "confidence": 0.216373
+  },
+  {
+   "type": "JobTitle",
+   "text": "Elections for Senators",
+   "relevance": 0.161053,
+   "count": 1,
+   "confidence": 0.184778
+  },
+  {
+   "type": "Organization",
+   "text": "Congress may",
+   "relevance": 0.160298,
+   "count": 1,
+   "confidence": 0.395779
+  },
+  {
+   "type": "Organization",
+   "text": "Places of chusing Senators",
+   "relevance": 0.159688,
+   "count": 1,
+   "confidence": 0.17079
+  },
+  {
+   "type": "Organization",
+   "text": "Authority of the United States",
+   "relevance": 0.159362,
+   "count": 2,
+   "confidence": 0.397858
+  },
+  {
+   "type": "JobTitle",
+   "text": "Judge of the Elections",
+   "relevance": 0.158093,
+   "count": 1,
+   "confidence": 0.252995
+  },
+  {
+   "type": "Organization",
+   "text": "Each House",
+   "relevance": 0.154808,
+   "count": 1,
+   "confidence": 0.215698
+  },
+  {
+   "type": "JobTitle",
+   "text": "Officers",
+   "relevance": 0.154185,
+   "count": 4,
+   "confidence": 0.999367
+  },
+  {
+   "type": "Organization",
+   "text": "Members of either House",
+   "relevance": 0.153482,
+   "count": 1,
+   "confidence": 0.256089
+  },
+  {
+   "type": "Facility",
+   "text": "Neither House",
+   "relevance": 0.152681,
+   "count": 1,
+   "confidence": 0.288822
+  },
+  {
+   "type": "Organization",
+   "text": "Session of Congress",
+   "relevance": 0.152479,
+   "count": 1,
+   "confidence": 0.405153
+  },
+  {
+   "type": "Organization",
+   "text": "civil Office",
+   "relevance": 0.147282,
+   "count": 1,
+   "confidence": 0.25824
+  },
+  {
+   "type": "JobTitle",
+   "text": "Member of either House",
+   "relevance": 0.145673,
+   "count": 1,
+   "confidence": 0.171283
+  },
+  {
+   "type": "Facility",
+   "text": "Journal of each House",
+   "relevance": 0.138375,
+   "count": 1,
+   "confidence": 0.11745
+  },
+  {
+   "type": "Ordinal",
+   "text": "first",
+   "relevance": 0.133599,
+   "count": 9,
+   "confidence": 1
+  },
+  {
+   "type": "Organization",
+   "text": "common Defence and general Welfare of the United States",
+   "relevance": 0.131764,
+   "count": 1,
+   "confidence": 0.220545
+  },
+  {
+   "type": "Organization",
+   "text": "Standard of Weights and Measures",
+   "relevance": 0.128311,
+   "count": 1,
+   "confidence": 0.20302
+  },
+  {
+   "type": "Location",
+   "text": "Providence Plantations",
+   "relevance": 0.127285,
+   "count": 1,
+   "confidence": 0.567235
+  }
+ ]
+}

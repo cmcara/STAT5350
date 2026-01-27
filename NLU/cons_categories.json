@@ -1,0 +1,16 @@
+{
+ "categories": [
+  {
+   "score": 0.99392,
+   "label": "/news and politics/law"
+  },
+  {
+   "score": 0.943531,
+   "label": "/news and politics/politics/elections"
+  },
+  {
+   "score": 0.883839,
+   "label": "/personal finance/personal taxes"
+  }
+ ]
+}
